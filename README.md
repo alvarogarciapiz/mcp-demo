@@ -44,6 +44,8 @@ Crea un archivo `tsconfig.json` en la raíz del proyecto con el siguiente conten
 
 Crea una carpeta `src/` y dentro de ella un archivo `index.ts` con el siguiente código mínimo:
 
+En este repositorio pueded copiar el de `src/index.ts` coom ejemplo funcional.
+
 ```typescript
 #!/usr/bin/env node
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
