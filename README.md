@@ -1,6 +1,6 @@
 # MCP Server Demo con Claude
 
-Este es un servidor MCP de demostración que simplemente responde "Buenos días + <nombre>". Es una plantilla base para trabajar en proyectos utilizando Model Context Protocol (MCP).
+Este es un servidor MCP de demostración que simplemente responde "Buenos días + nombre". Es una plantilla base para trabajar en proyectos utilizando Model Context Protocol (MCP).
 
 ## 🚀 Cómo montar uno desde cero
 
